@@ -1,0 +1,15 @@
+# React
+Frontend/node_modules/
+Frontend/dist/
+
+# Spring Boot
+backend/target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
